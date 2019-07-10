@@ -17,7 +17,7 @@ Please follow the guide below.
 - Find the address you are using
     ![find the right address](./res/find_ethereum_address.png)
 
-<!-- ## Export keystore with Go-ethereum.
+## Export keystore with Go-ethereum.
 
 You get `keystore` by import the private key using `Ethereum Geth program`.
 
@@ -41,5 +41,7 @@ Address: {1cefb0364800ff16847a7f80ad7755330accb041}
 ```sh
 zzz@ubuntu:~$ ls ./keystore/
 UTC--2019-07-10T05-55-12.805083388Z--1cefb0364800ff16847a7f80ad7755330accb041
-``` -->
-## Import your private key to your cpchain wallet.
+```
+## Import your keystore to your cpchain wallet.
+
+The cpchain wallet is not relased and the cpchain token swap has not completed yet.
